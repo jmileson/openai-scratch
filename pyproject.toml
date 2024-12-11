@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12.7"
 dependencies = [
+    "kagiapi>=0.2.1",
     "openai>=1.57.2",
+    "pydantic>=2.10.3",
+    "pydantic-settings>=2.6.1",
 ]
